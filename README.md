@@ -1,2 +1,2 @@
-# docker-java-aws-cli
+# Java and AWS CLI in Docker
 Containerized Java and AWS CLI
