@@ -1,6 +1,6 @@
 FROM maven:3-jdk-11-slim
 
-ARG CLI_VERSION=1.16.254
+ARG CLI_VERSION=1.16.261
 
 # Update software repository
 RUN apt-get update
